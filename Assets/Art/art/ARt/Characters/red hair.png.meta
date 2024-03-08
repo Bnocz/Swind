@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: red hair_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218674228ab5c98408cb8d76344a8499
+      internalID: -555399087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 474
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a61448da365447b591e7c65d261a4
+      internalID: 384497078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 474
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59135df28b7f8404f888ae70aa9acbfa
+      internalID: -1140754824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 474
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bb6a603bdd44745bfb2c831d941de2
+      internalID: -1319055520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81185b3b4c04dde47be3e00aae936727
+      internalID: 2087021909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 316
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed65d7c480008ae47a34887345a78bd4
+      internalID: -981658423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 316
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b98298066c374e4d8437c32c605277d
+      internalID: 532681243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 316
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce74265c53f38cb4fba93d42a085f3f3
+      internalID: 412065672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bf6c71020ab404faff860ba2aafe56
+      internalID: 676560810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 158
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff02e833fbf5fd5469d3a8d0ee6baaa5
+      internalID: -696679252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 158
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4822b74f7ea3524d997d9432f34928f
+      internalID: -549840171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 158
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89272bc3fa86b043b78a60808ade731
+      internalID: -444581133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46af207be0113364a97398f385f9d6b8
+      internalID: -1303731600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf9aa5a67c3a64e933acd85614e28a
+      internalID: 1633724371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced10ef9f4fce7041bd9e849667f3057
+      internalID: -2046627192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hair_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 93.75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1cd3daa90204d438bdfd40e0374d3b
+      internalID: 1411417432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +455,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      red hair_0: -555399087
+      red hair_1: 384497078
+      red hair_10: -549840171
+      red hair_11: -444581133
+      red hair_12: -1303731600
+      red hair_13: 1633724371
+      red hair_14: -2046627192
+      red hair_15: 1411417432
+      red hair_2: -1140754824
+      red hair_3: -1319055520
+      red hair_4: 2087021909
+      red hair_5: -981658423
+      red hair_6: 532681243
+      red hair_7: 412065672
+      red hair_8: 676560810
+      red hair_9: -696679252
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
