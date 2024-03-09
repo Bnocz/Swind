@@ -44,3 +44,6 @@ TagManager:
   - name: rocks
     uniqueID: 1284149085
     locked: 0
+  - name: player
+    uniqueID: 1551302103
+    locked: 0
