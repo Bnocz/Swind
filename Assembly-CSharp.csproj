@@ -63,6 +63,8 @@
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\NPCController.cs" />
     <Compile Include="Assets\Scripts\EnemyController.cs" />
+    <Compile Include="Assets\Scripts\DialogManager.cs" />
+    <Compile Include="Assets\Scripts\Dialog.cs" />
     <Compile Include="Assets\Scripts\Interactable.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
   </ItemGroup>

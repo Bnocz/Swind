@@ -338,6 +338,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ff22f5bec9688c4a8ec34224e7e5abc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog:
+    lines:
+    - Greetings child, I am the wise carrot
+    - Speak to me to learn more of the world
+    - Or eat me for better eyesight
 --- !u!1 &380456671
 GameObject:
   m_ObjectHideFlags: 0
@@ -2822,6 +2827,7 @@ GameObject:
   m_Component:
   - component: {fileID: 986384463}
   - component: {fileID: 986384462}
+  - component: {fileID: 986384464}
   m_Layer: 0
   m_Name: GameController
   m_TagString: Untagged
@@ -2857,6 +2863,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &986384464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 986384461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7870c398b45766046ab7eaf8e48f0af4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogBox: {fileID: 1933622026}
+  dialogText: {fileID: 1900785749}
+  lettersPerSecond: 40
 --- !u!1 &1110014631
 GameObject:
   m_ObjectHideFlags: 0
@@ -4531,18 +4552,20 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 32
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 40
+    m_MinSize: 0
+    m_MaxSize: 42
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 'New Text
+
+'
 --- !u!222 &1900785750
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4568,7 +4591,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1933622027
 RectTransform:
   m_ObjectHideFlags: 0
